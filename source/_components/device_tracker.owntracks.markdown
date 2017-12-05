@@ -58,7 +58,7 @@ USERNAME_DEVICE_ID:
   picture: https://home-assistant.io/images/favicon-192x192.png
   gravatar: test@example.com
   track: yes
-  hide_if_away: no
+  hide_if_away: false
 ```
 
 ### {% linkable_title Using Owntracks regions %}
